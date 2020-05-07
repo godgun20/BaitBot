@@ -1,0 +1,8 @@
+{
+“name”: “BirthdayBot”,
+“version”: “1.0.0”,
+“description”: “This bot is the literal best.”,
+“main”: “bot.js”,
+“author”: “aaronmansfield5”,
+“dependencies”: {}
+}
